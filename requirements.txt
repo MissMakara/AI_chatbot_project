@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+lxml
+requests
+gunicorn
+httpx
+beautifulsoup4
+scrapy>=2.11,<3
+scrapy-playwright
+pydantic
